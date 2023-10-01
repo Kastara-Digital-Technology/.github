@@ -1,7 +1,7 @@
 <!--suppress ALL -->
 <p align="center">
   <a href="https://bengkelti.com/kadita-docs">
-  <img width="200" src="https://github.com/Kastara-Digital-Technology/assets/raw/main/logo/mainLogo.png"></a>
+  <img width="200" src="https://github.com/Kastara-Digital-Technology/assets/raw/main/logo/mainLogo.png" alt=""></a>
 </p>
 
 <div align="center">
